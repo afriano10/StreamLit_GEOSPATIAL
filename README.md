@@ -1,3 +1,16 @@
+title: SATCundinamarca
+emoji: 👀
+colorFrom: indigo
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.17.0
+app_file: app.py
+pinned: false
+license: mit
+
+---
+
+
 # streamlit-geospatial
 
 A streamlit multipage app for geospatial applications. It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud), [Heroku](https://heroku.com/), or [MyBinder](https://mybinder.org/).
