@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://PipeRiaio:$HF_TOKEN@huggingface.co/spaces/PipeRiaio/SATCundinamarca main
+        run: git push --force https://PipeRiaio:$HF_TOKEN@huggingface.co/spaces/PipeRiaio/SATCundinamarca main
