@@ -1,3 +1,4 @@
+---
 title: SATCundinamarca
 emoji: 👀
 colorFrom: indigo
@@ -7,7 +8,6 @@ sdk_version: 1.17.0
 app_file: app.py
 pinned: false
 license: mit
-
 ---
 
 
